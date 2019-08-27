@@ -1,0 +1,15 @@
+{
+  "name": "coffee-store-mock",
+  "version": "1.0.0",
+  "description": "just a mock of a rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.15.0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "brews": [
+    {
+      "id": 1,
+      "name": "Ristretto",
+      "description": "Ristretto is traditionally a short shot of espresso coffee made with the normal amount of ground coffee but extracted with about half the amount of water in the same amount of time by using a finer grind.",
+      "image": "https://d36bl1cjgcfngd.cloudfront.net/wp-content/uploads/sites/2/2018/06/18115512/espresso-sml.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lungo",
+      "description": "Lungo is a coffee beverage made by using an espresso machine to make an Italian-style coffee – short black with much more water, resulting in a larger coffee, a lungo.",
+      "image": "https://worldbarista.files.wordpress.com/2011/02/caffe-lungo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Capuccino",
+      "description": "A cappuccino is an espresso-based coffee drink that originated in Italy, and is traditionally prepared with steamed milk foam. Variations of the drink involve the use of cream instead of milk, and flavoring with cinnamon or chocolate powder.",
+      "image": "https://coffee-brewing-methods.com/wp-content/uploads/latte-art-e1480039722212.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Flat White",
+      "description": "A flat white is an espresso-based drink that contains steamed milk. That much is probably already obvious. It is a no-nonsense option for those looking for a dairy beverage with a strong taste of coffee and is made with a small amount of steamed milk and a thin layer of microfoam.",
+      "image": "https://coffeeordie.com/wp-content/uploads/2019/08/AdobeStock_228763308-1024x683.jpeg"
+    }
+  ]
+}
